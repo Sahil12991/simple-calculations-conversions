@@ -2,6 +2,10 @@
 
 ![demo](https://github.com/user-attachments/assets/af624df3-4b87-46f6-bb53-53f169f4e1f0)
 
+## 📌 Purpose of This Repository
+
+This repository was created as a beginner-friendly project to help new developers learn **Git and GitHub** in a practical, real-world way. Instead of just memorizing commands, this repo demonstrates how to actually use Git while building a simple Python project. It covers the complete workflow including initializing a repository, creating branches for different features, staging and committing changes, pushing code to GitHub, pulling updates from remote, working with multiple branches, and merging features into the main branch using Pull Requests. The goal is to make beginners comfortable with version control by learning through a real project structure, not random examples.
+
 A simple Python CLI project that provides multiple utility tools like:
 - 🧮 Calculator
 - 💱 Currency Converter

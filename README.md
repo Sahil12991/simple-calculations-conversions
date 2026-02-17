@@ -1,5 +1,7 @@
 # 🔥 Simple Calculations & Conversions (Python)
 
+![demo](https://github.com/user-attachments/assets/af624df3-4b87-46f6-bb53-53f169f4e1f0)
+
 A simple Python CLI project that provides multiple utility tools like:
 - 🧮 Calculator
 - 💱 Currency Converter

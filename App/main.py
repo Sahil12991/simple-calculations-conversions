@@ -1,6 +1,6 @@
-from calculator import calculator
-from currency_converter import currency_converter
-from temperature_converter import temperature_converter
+from app1.calculator import calculator
+from app1.currency_converter import currency_converter
+from app1.temperature_converter import temperature_converter
 
 
 def main():
